@@ -1,0 +1,86 @@
+.body{
+    background-image: url(data:image/jpeg;base64,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);
+}
+#header{
+    text-align: right;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: ivory;
+      
+    
+}
+
+#column{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    color: black;
+    text-align: left;
+    align-content: left;
+    column-gap: 40px;
+    text-decoration: none;
+    position: relative;
+    margin: 10px 10px 10px 10;
+    z-index: 1em;
+    }
+   
+.img{
+        z-index: 100%;
+             position: relative;
+             margin-left: 50em;
+             margin-top: -120em;
+             margin-bottom: 10em;
+
+            }
+
+.footer{
+    position: absolute; width: 100%;
+    background-color: rgb(109, 76, 6);
+    height: 25px;
+    font-size: 1.2em;
+    color: ivory;
+    text-align: center;
+    padding: 1.5em 2em 2em 2em;
+}
+
+#contact{
+    clear: left;
+    padding:  30px 30px 30px 30px;
+    font-family: ' font-family: "Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+}
+
+footer ul li {
+	display: inline-block;
+	padding: 0 01em 0 0;
+	margin: 0;
+}
+footer ul li::before {
+	content: "| ";
+    padding-right: .5em;
+}
+footer a, footer a:visited {
+	color: ivory;
+	text-decoration: none;
+}
+footer a:hover {
+	color: ivory;
+	text-decoration: underline;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+    .info{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: ivory;
+    }
+    a{
+        color: ivory;
+        text-decoration: unset;
+    }
+#oa{
+    margin: 10px 10px 10px 10px;
+}
